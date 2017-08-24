@@ -1,36 +1,21 @@
-Andaman and Nicobar Islands
-Andra Pradesh
-Arunachal Pradesh
-Assam
-Bihar
-Chandigarh
-Chhattisgarh
-Dadar and Nagar Haveli
-Daman and Diu
-Delhi
-Goa
-Gujarat
-Haryana
-Himachal Pradesh
-Jammu and Kashmir
-Jharkhand
-Karnataka
-Kerala
-Lakshadeep
-Madya Pradesh
-Maharashtra
-Manipur
-Meghalaya
-Mizoram
-Nagaland
-Orissa
-Pondicherry
-Punjab
-Rajasthan
-Sikkim
-Tamil Nadu
-Tripura
-Union Territories
-Uttar Pradesh
-Uttaranchal
-West Bengal
+DBINUIService18	createFDAccount
+DBINUIService8	retrieveDepositAccountDetails_lite
+DBINUIService8	retrieveFDQuote
+	
+	
+	
+DBINUIService31	retrieveFDTransactionHistory
+DBINUIService8	FDRDDetails
+DBINUIService8	retrieveFDReceiptList
+	
+	
+	
+DBINUIService8	terminateFDAccount
+DBINUIService8	terminateFDAccountConform
+	
+	
+	
+	
+DBINUIService8	administerFDMaturity
+DBINUIService8	AddNomineeGuardian
+DBINUIService8	AdministerFDAccntNew
